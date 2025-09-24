@@ -9,3 +9,41 @@
 YumenoRetort/YumenoRetort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Hi there 👋 I'm **Erin**
+
+🌱 **About Me**  
+- 💻 Junior Software Engineer with 3+ years of experience  
+- 🐍 Skilled in **Python**, **Java**, & **JavaScript**  
+- 🚀 Passionate about backend development, automation, and scalable web apps  
+- 🌏 Based in **Makati, Philippines**  
+- 🌱 I believe work should be **fulfilling** and encourage **personal growth**
+
+---
+
+🔧 **Tech Stack**  
+`Python` `Java` `JavaScript` `Node.js` `React` `PostgreSQL` `Docker` `Git/GitHub`
+
+# Hi there 👋 I'm **Your Name**
+
+🌱 **About Me**  
+- 💻 Junior Software Engineer with 3+ years of experience  
+- 🐍 Skilled in **Python**, **Java**, & **JavaScript**  
+- 🚀 Passionate about backend & frontend development and data analytics
+- 🌏 Based in **Manila, Philippines**  
+- 🌱 I believe work should be **fulfilling** and encourage **personal growth**
+
+---
+
+🔧 **Tech Stack**  
+`Python` `Java` `JavaScript` `Node.js` `React` `PostgreSQL` `Docker` `Git/GitHub`
+
+---
+
+📫 **Contact Me**
+- 📧 **Email:** yourname@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erinreyes1431/)  
+
+---
+
+⭐️ _Thanks for stopping by!_  
+> “Work should be fulfilling and also help with personal growth.”

@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 📫 **Contact Me**
-- 📧 **Email:** yourname@email.com  
+- 📧 **Email:** erinreyes1431@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/erinreyes1431/)  
 
 ---
